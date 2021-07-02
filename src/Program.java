@@ -13,7 +13,7 @@ public class Program {
 		InsertionSort insort = new InsertionSort(array);
 		ShuttleSort shtlesort = new ShuttleSort(array);
 		ShellSort ssort = new  ShellSort(array);
-		PrintResult(ssort);
+		//PrintResult(ssort);
 		
 		
 	}
